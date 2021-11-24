@@ -18,5 +18,6 @@ d = (k*&(n)+1)/e ,因此我们需要k、n、e
 可以得知&(p*q)=&(p)*&(q)
 e要与&(n)互质，k随机，n=p*q(pq互质)，求d、e、n公布作为公钥 
 
-这个代码是根据(https://www.freesion.com/article/42341433559/)这篇博客上的代码改编的，修正了一些bug，但还是有许多问题没得到解决，我的技术还远远不够
+这个代码是根据(https://www.freesion.com/article/42341433559/)
+这篇博客上的代码改编的，修正了一些bug，但还是有许多问题没得到解决，我的技术还远远不够
 相关的程序结果运行可以看这个链接 https://www.bilibili.com/video/BV1ef4y1K7p7
